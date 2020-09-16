@@ -57,12 +57,36 @@
 ###### From lowest to highest
 ###### Are lazy
 
+### Subnets
+#### Subsection of a network
+#### A private subnet is able to communicate with other subnet
+##### Through Route Table
+#### Rules
+##### Must be associated with a route table
+##### A **Public** subnet has a route to the internet
+##### A **Private** subnet does not have a route to the internet
+##### A subnet is located in one specific Availability Zone
 
-
+### Availability Zones
+#### High Availability
+#### Fault Tolerant
 
 
 
 ## EC2
+### Basic desktop computer
+### Scalable computing capacity
+### Is On Demand
+### Components
+#### AMIs
+#### Instance Type
+#### EBS
+
+#### Security Group
+#### RAM
+
+
+
 
 ## Storage Services
 
@@ -79,4 +103,5 @@
 ## Route 53
 
 ## Lambda
+
 
